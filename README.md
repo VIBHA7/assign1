@@ -2,7 +2,7 @@
 #TREND LINE OF TELEPHONE BY CONTINENT
 
 
-This is an Shiny application, adapted from the "Telephone by Region by Jeff Allen" gallery on 
+This is a Shiny application, adapted from the "Telephone by Region by Jeff Allen" gallery on 
 http://shiny.rstudio.com/gallery/telephones-by-region.html. "Trend line of telephone by continent" adds a trend line based upon generalized least sauare modle (glm) to illustrate patterns of growth on different continents. The trend lines indicate their extent, volatility and speed of growth.  
 
 ##Components of Application
